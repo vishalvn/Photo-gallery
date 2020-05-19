@@ -1,0 +1,20 @@
+package com.example.photogallerykotlinversion.Constants
+
+const val PHOTO = "PhotoGalleryFragment"
+const val FETCH = "FlickrFetcher"
+const val API_KEY = "ac5d6fc6941e14e45418012c617e1419"
+const val THUMB = "ThumbnailDownloader"
+const val MESSAGE_DOWNLOAD = 0
+const val SEARCH_QUERY = "searchquery"
+const val POLL = "PollWorker"
+const val LAST_RESULT_ID = "lastResultId"
+const val NOTIFICATION_CHANNEL_ID = "flickr_poll"
+const val IS_POLLING = "isPolling"
+const val POLL_WORK = "POLL_WORK"
+const val ACTION_SHOW_NOTIFICATION = "com.example.photogallerykotlinversion.SHOW_NOTIFICATION"
+const val NOTIFY = "NotificationReceiver"
+const val PERM_PRIVATE = "com.example.photogallerykotlinversion.PRIVATE"
+const val VISIBILE_FRAGMENT = "VisibileFragment"
+const val REQUEST_CODE = "RequestCode"
+const val NOTIFICATION = "Notification"
+const val ARG_URI = "photo_page_url"
